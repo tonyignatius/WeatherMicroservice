@@ -1,0 +1,14 @@
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\bin\Debug\netcoreapp2.1\WeatherMicroservice.deps.json
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\bin\Debug\netcoreapp2.1\WeatherMicroservice.runtimeconfig.json
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\bin\Debug\netcoreapp2.1\WeatherMicroservice.runtimeconfig.dev.json
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\bin\Debug\netcoreapp2.1\WeatherMicroservice.dll
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\bin\Debug\netcoreapp2.1\WeatherMicroservice.pdb
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.csprojAssemblyReference.cache
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.RazorAssemblyInfo.cache
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.RazorAssemblyInfo.cs
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.AssemblyInfo.cs
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.dll
+C:\Users\frm3fyf\Documents\sampledotnetcoreappwithdocker\WeatherMicroservice\obj\Debug\netcoreapp2.1\WeatherMicroservice.pdb
